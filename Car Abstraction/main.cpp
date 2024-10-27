@@ -9,6 +9,7 @@ int main()
 	car.Accelerate();
 	car.Accelerate();
 	car.Dashboard();
+	car.Brake();
 
 	return 0;
 }
